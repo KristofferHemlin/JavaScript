@@ -2,7 +2,7 @@
 // Blackjack
 // av Kristoffer Hemlin
 //
-
+console.log("hello, world");
 //Card variables
 let suits = ['Hjärter', 'Klöver', 'Ruter', 'Spader'];
 let values = ['Ess', 'Kung', 'Drottning', 'Knekt',
